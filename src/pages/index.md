@@ -38,7 +38,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Gloomhaven Geeks
+      value: 'Get in on the Gloomhaven fun -- guides, strategies and more.'
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
