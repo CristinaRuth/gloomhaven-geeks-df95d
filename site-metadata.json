@@ -44,7 +44,7 @@
                 "type": "action"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
