@@ -54,7 +54,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Get in on the Gloomhaven fun -- how to get started, guides, strategies
+        to consider, and more.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
