@@ -52,7 +52,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Gloomhaven Geeks
     - name: 'twitter:description'
       value: >-
         Get in on the Gloomhaven fun -- how to get started, guides, strategies
