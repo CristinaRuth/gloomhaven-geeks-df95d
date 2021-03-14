@@ -41,7 +41,9 @@ seo:
       value: 'Get in on the Gloomhaven fun -- guides, strategies and more.'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Get in on the Gloomhaven fun -- how to get started, guides, strategies
+        to consider, and more.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
