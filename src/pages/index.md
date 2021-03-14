@@ -30,7 +30,9 @@ sections:
         style: button
 seo:
   title: Gloomhaven Geeks
-  description: The preview of the Fresh theme
+  description: >-
+    Get in on the Gloomhaven fun -- how to get started, guides, strategies to
+    consider, and more.
   extra:
     - name: 'og:type'
       value: website
